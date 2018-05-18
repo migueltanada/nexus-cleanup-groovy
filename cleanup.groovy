@@ -1,3 +1,12 @@
+/* todo 
+ * use authstring in artifactURL and artifactFolderURL
+ * clean up codes
+ * add logging remove println
+ * 
+ */
+
+
+
 #!/usr/local/bin/groovy
 def nexusUser = "admin";
 def nexusPassword = "admin123";
